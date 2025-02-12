@@ -1,7 +1,7 @@
 # FCAE-AD
 The code in this repository implements the "FCAE-AD: Full Convolutional Autoencoder Based on Attention Gate for Hyperspectral Anomaly Detection".
 
-We run this code with python 3.8, torch==1.11.0, and CUDA==11.3.
+We run this code with python 3.9, torch==2.4.0, and CUDA==11.8.
 
 Please kindly cite our paper if this code is useful and helpful for your research.
 
